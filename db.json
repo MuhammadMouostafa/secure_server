@@ -8,7 +8,9 @@
   "profile": {
     "name": "typicode"
   },
-  "infrabel_site_manager/neighbors": {
-    "id": "hellow"
+  "infrabel_site_manager": {
+    "neighbors": {
+      "id": "hellow"
+    }
   }
 }
